@@ -32,5 +32,6 @@ public class InterestingSubarray {
             System.out.println(max);
             T--;
         }
+        sc.close();
     }
 }
